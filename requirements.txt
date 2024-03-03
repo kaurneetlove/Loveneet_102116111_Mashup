@@ -1,0 +1,5 @@
+Flask
+moviepy==1.0.3
+pytube==15.0.0
+youtube-search==2.1.2
+youtube-search-python==1.6.6
